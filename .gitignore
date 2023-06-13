@@ -1,6 +1,3 @@
 venv/
 apikey.txt
-criptoquery/__pycache__/__init__.cpython-311.pyc
-criptoquery/__pycache__/controller.cpython-311.pyc
-criptoquery/__pycache__/models.cpython-311.pyc
-criptoquery/__pycache__/view.cpython-311.pyc
+**__pycache__/
